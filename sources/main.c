@@ -48,7 +48,7 @@ int player_lives = 3;
 bool player_damaged;
 int player_damage_flashes_left = 0;
 float player_damaged_animation_time = 0;
-#define PLAYER_DAMAGED_ANIMATION_DURATION (0.15);
+#define PLAYER_DAMAGED_ANIMATION_DURATION (0.15)
 
 Texture2D player_texture;
 Texture2D enemy_texture;
